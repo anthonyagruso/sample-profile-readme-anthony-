@@ -6,7 +6,7 @@ _My name is Anthony Agruso and I am in my freshman year of cybersecurity. I am a
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Classic Cars]
+![Classic Cars](https://img.shields.io/badge/ClassicCars-0052CC?logo=protonvpn&logoColor=white)
 
 ## 🔗 Links
 [![GitHub](https://github.com/anthonyagruso/sample-profile-readme-anthony-.git)
